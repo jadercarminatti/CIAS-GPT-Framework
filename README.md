@@ -40,3 +40,10 @@ npm start
 ```
 
 After installation, explore the documentation and provided examples to integrate CIAS into your AI projects. Community contributions and suggestions are welcome!
+
+## License
+
+This project is licensed under the MIT License. You are free to use, modify, and distribute this software in accordance with the terms outlined in the MIT License.
+
+You can view the full license text in the [LICENSE](./LICENSE) file.
+
